@@ -92,5 +92,5 @@ function add(nu1,num2) {return num1 + num2;}
 <!-- task lists -->
 * [x] Task 1
 * [x] Task 2
-* [] Task 3
+* [ ] Task 3
 
